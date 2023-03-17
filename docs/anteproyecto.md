@@ -8,7 +8,9 @@
 que se pretende alcanzar al realizar el proyecto. Se indicará igualmente donde
 será utilizado el proyecto obtenido.*
 
+El objetivo que se pretende alcanzar es conseguir compartir los archivos en varios equipos en la red al mismo tiempo.
 
+Será utilizado
 
 ## PREANALISIS DE LO EXISTENTE (Opcional)
 
@@ -18,9 +20,9 @@ será utilizado el proyecto obtenido.*
 
 *[TODO] Determinar de forma genérica lo que tiene que hacer el software y cuáles son los requisitos que debe cumplir.*
 
-Lo que el software tiene que hacer es compartir varios archivos entre equipos que estén conectadas a la misma red local 
+Lo que el software tiene que hacer es compartir varios archivos entre equipos que estén conectadas a la misma red local.
 
-El requisito que NitroShare tiene que cumplir es tener dos ordenadores con distinto S.O., que estén conectadas a la misma red local.
+El requisito que el software tiene que cumplir es a parte tener dos equipos con distinto S.O., que el receptor y el emisor tengan el software en ejecución mientras se están compartiendo los archivos y que estén conectadas a la misma red local.
 
 > *Incuir los diagramas necesarios*
 
