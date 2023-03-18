@@ -6,7 +6,8 @@
 
 El objetivo que se pretende alcanzar es conseguir compartir múltiples archivos en varios equipos en la red al mismo tiempo.
 
-El proyecto será utilizado a las empresas que se dedican a la transferencia de múltples archivos que estén conectadas a la misma red local.
+El proyecto será utilizado a las empresas que se dediquen a la transferencia de múltiples archivos que estén conectadas a la misma red local y multicast.
+Y quiero presentarles este proyecto para mostrarle cuál es mi propuesta y enseñarles una manera más económica.
 
 ## PREANALISIS DE LO EXISTENTE (Opcional)
 
@@ -18,11 +19,16 @@ Lo que el software tiene que hacer es compartir varios archivos entre equipos qu
 
 El requisito que el software tiene que cumplir es a parte tener dos equipos con distinto S.O., que el receptor y el emisor tengan el software en ejecución mientras se están compartiendo los archivos y que estén conectadas a la misma red local.
 
-![image](https://user-images.githubusercontent.com/90828819/226119737-80423a01-c513-4446-974e-9742eb99774e.png)
+![image](https://user-images.githubusercontent.com/90828819/226134986-7c70f2ff-7fe7-4c79-bd40-3378447f4b59.png)
 
 ## DISEÑO DEL SOFTWARE
 
 *[TODO] Propuesta de posibles opciones de implementación del software que hay que construir, determinar cómo se va a llevar a cabo la implementación.*
+
+Las posibles propuesta de la implementación del software son:
+Implementación utilizando una herramienta ejecutable 
+Implementarlo en una APP (Aplicación de Android hecho en el lenguaje java)
+Implementarlo en el lenguaje de programación C++
 
 >  *Incluir los diagramas necesarios.*
 
