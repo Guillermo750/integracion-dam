@@ -4,21 +4,15 @@
 
 ## OBJETIVOS
 
-*[TODO] Se indicará de forma genérica y sin entrar en concreciones el objetivo
-que se pretende alcanzar al realizar el proyecto. Se indicará igualmente donde
-será utilizado el proyecto obtenido.*
+El objetivo que se pretende alcanzar es conseguir compartir múltiples archivos en varios equipos en la red al mismo tiempo.
 
-El objetivo que se pretende alcanzar es conseguir compartir los archivos en varios equipos en la red al mismo tiempo.
-
-Será utilizado
+El proyecto será utilizado a las empresas que se dedican a la transferencia de múltples archivos que estén conectadas a la misma red local.
 
 ## PREANALISIS DE LO EXISTENTE (Opcional)
 
 *[TODO] Si procede, se informará brevemente sobre el funcionamiento del sistema actual. El que vamos a reemplazar o a mejorar. Este sistema no tiene por qué estar necesariamente automatizado pudiendo realizarse actualmente de forma manual por personas.*
 
 ## ANÁLISIS DEL SOFTWARE
-
-*[TODO] Determinar de forma genérica lo que tiene que hacer el software y cuáles son los requisitos que debe cumplir.*
 
 Lo que el software tiene que hacer es compartir varios archivos entre equipos que estén conectadas a la misma red local.
 
