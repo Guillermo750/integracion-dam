@@ -18,7 +18,7 @@ Lo que el software tiene que hacer es compartir varios archivos entre equipos qu
 
 El requisito que el software tiene que cumplir es a parte tener dos equipos con distinto S.O., que el receptor y el emisor tengan el software en ejecución mientras se están compartiendo los archivos y que estén conectadas a la misma red local.
 
-> *Incuir los diagramas necesarios*
+![image](https://user-images.githubusercontent.com/90828819/226119374-26b81095-c1e0-4ea2-b6e9-f58b9ebdb0bd.png)
 
 ## DISEÑO DEL SOFTWARE
 
