@@ -25,8 +25,6 @@ Este diagrama es un estudio de una aplicación que se encarga de la transferenci
 
 ## DISEÑO DEL SOFTWARE
 
-*[TODO] Propuesta de posibles opciones de implementación del software que hay que construir, determinar cómo se va a llevar a cabo la implementación.*
-
 Las posibles propuesta de la implementación del software son:
 Implementación utilizando una herramienta ejecutable. 
 Implementarlo en una APP (Aplicación de Android hecho en java). 
