@@ -30,7 +30,9 @@ Este diagrama es un estudio de una aplicación que se encarga de la transferenci
 Las posibles propuesta de la implementación del software son:
 Implementación utilizando una herramienta ejecutable. 
 Implementarlo en una APP (Aplicación de Android hecho en java). 
-Implementarlo en el lenguaje de programación C++. 
+Implementarlo en el lenguaje de programación C++.
+
+La implementación se llevará a cabo un app gráfica que es el cliente que se conectará al servidor la gente que quiera descargar los archivos se tienen que conectar al servidor.
 
 ![image](https://user-images.githubusercontent.com/90828819/226180659-a13f3526-a353-4ad0-9bb6-1a4f8f461e48.png)
 
