@@ -21,17 +21,25 @@ El requisito que el software tiene que cumplir es a parte tener dos equipos con 
 
 ![image](https://user-images.githubusercontent.com/90828819/226134986-7c70f2ff-7fe7-4c79-bd40-3378447f4b59.png)
 
+Este diagrama es un estudio de una aplicación que se encarga de la transferencia de los archivos por red local y multicast.
+
 ## DISEÑO DEL SOFTWARE
 
 *[TODO] Propuesta de posibles opciones de implementación del software que hay que construir, determinar cómo se va a llevar a cabo la implementación.*
 
 Las posibles propuesta de la implementación del software son:
-Implementación utilizando una herramienta ejecutable 
-Implementarlo en una APP (Aplicación de Android hecho en el lenguaje java)
-Implementarlo en el lenguaje de programación C++
+Implementación utilizando una herramienta ejecutable. 
+Implementarlo en una APP (Aplicación de Android hecho en java). 
+Implementarlo en el lenguaje de programación C++. 
 
->  *Incluir los diagramas necesarios.*
+![image](https://user-images.githubusercontent.com/90828819/226180659-a13f3526-a353-4ad0-9bb6-1a4f8f461e48.png)
+
+Para la validación del proceso, el proceso 1.1 recibir archivo obtiene información de los archivos que ha recibido y es primitivo, en el proceso 1.2 obtiene una lista con la información de los archivos y es primitivo, en el proceso 1.3 antes de validarlo comprueba el archivo antes y no es primitivo.
+
+![image](https://user-images.githubusercontent.com/90828819/226180732-d801006b-3f61-41b8-b716-ffe5d81d8240.png)
+
+Para la validación, el proceso 2.1 arrastra el archivo y es primitivo, en el 2.2 prepara el archivo para su envío y es primitivo, en el 2.3 registra los archivos que son pendientes(que aún quedan por la operación) y es primitivo, en el proceso 2.4 realizar el envío del archivo y no es primitivo.
 
 ## ESTIMACIÓN DE COSTES
 
-*[TODO] Estimar el coste que representará la creación del proyecto. Esta estimación será temporal y/o económica si procede (costes de contratación de servicios en la nube, por ejemplo).*
+La estimación del coste de la creación del proyecto que representará es de 9.200€.
