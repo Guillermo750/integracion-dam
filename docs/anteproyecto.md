@@ -19,7 +19,7 @@ Lo que el software tiene que hacer es compartir varios archivos entre equipos qu
 
 El requisito que el software tiene que cumplir es a parte tener dos equipos con distinto S.O., que el receptor y el emisor tengan el software en ejecución mientras se están compartiendo los archivos y que estén conectadas a la misma red local.
 
-![image](https://user-images.githubusercontent.com/90828819/226628400-5a6abf1e-d9f7-4e11-ba45-1f807352d5eb.png)
+![image](https://user-images.githubusercontent.com/90828819/226646086-20eb76a9-6acd-4384-b141-ae7df3098b2a.png)
 
 Este diagrama es un estudio de una aplicación que se encarga de la transferencia de los archivos por red local y multicast.
 
@@ -42,4 +42,4 @@ Para la validación, el proceso 2.1 arrastra el archivo y es primitivo, en el 2.
 
 ## ESTIMACIÓN DE COSTES
 
-La estimación del coste de la creación del proyecto que representará es de 9.200€. Este precio lo saqué de este enlace donde puedes cacular la estimación del coste a la hora de crear tu propia App (https://www.cuantocuestamiapp.com/).
+La estimación del coste 
