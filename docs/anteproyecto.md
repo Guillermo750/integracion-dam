@@ -5,8 +5,8 @@
 ## OBJETIVOS
 
 El objetivo que se pretende alcanzar es conseguir compartir múltiples archivos en varios equipos en la red al mismo tiempo.
-
 El proyecto será utilizado a las empresas que se dediquen a la transferencia de múltiples archivos que estén conectadas a la misma red local y multicast.
+Crear una App donde hayan por ejemplo dos usuarios con distinto dispositivo en el cual puedan hacer la transferencia por la misma red local.
 Y quiero presentarles este proyecto para mostrarle cuál es mi propuesta y enseñarles una manera más económica.
 
 ## PREANALISIS DE LO EXISTENTE (Opcional)
