@@ -42,7 +42,4 @@ Para la validación, el proceso 2.1 arrastra el archivo y es primitivo, en el 2.
 
 ## ESTIMACIÓN DE COSTES
 
-La estimación del coste a la hora de crear mi proyecto sería 35€ por hora pero depende según la aplicación que vaya a desarrollar, diferentes perfiles profesionales y el tiempo que requiere desarrollar una App: si es una App sencilla pues el coste sería entre 4.000 y 6.000 € de 1 a 2 meses, si la desarrollo en forma básica pues el coste estaría entre 6.000 y 30.000 € de 2 a 4 meses y si la hago compleja pues estaría a partir de 30.000€ que llevaría más de 4 meses.
-Y si la creación del proyecto son para las empresas emergentes pues la estimación del coste estaría entre 4.000 y 400.000 € unas 1.600 horas.
-También los trajadores que son profesionales si desarrollan la App en iOS pues su estimación de coste sería de 44€ la hora porque utilizarían tecnologías que un nivel bastante adquisitivo.
-
+La estimación del coste a la hora de crear mi proyecto sería 35€ por hora pero depende según la aplicación que vaya a desarrollar y el tiempo que requiere la App: si es una App sencilla pues el coste sería una cierta cantidad con su duración, si la desarrollo en forma básica pues el coste sería diferente y si la hago compleja pues también diferente.
