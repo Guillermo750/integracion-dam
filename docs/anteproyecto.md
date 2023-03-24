@@ -19,7 +19,7 @@ Lo que el software tiene que hacer es compartir varios archivos entre equipos qu
 
 El requisito que el software tiene que cumplir es a parte tener dos equipos con distinto S.O., que el receptor y el emisor tengan el software en ejecución mientras se están compartiendo los archivos y que estén conectadas a la misma red local.
 
-![image](https://user-images.githubusercontent.com/90828819/226646086-20eb76a9-6acd-4384-b141-ae7df3098b2a.png)
+![image](https://user-images.githubusercontent.com/90828819/227519329-dfa6e554-8f13-40e9-8e84-30c1a23e8f19.png)
 
 Este diagrama es un estudio de una aplicación que se encarga de la transferencia de los archivos por red local y multicast.
 
