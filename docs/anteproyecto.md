@@ -21,7 +21,7 @@ El requisito que el software tiene que cumplir es a parte tener dos equipos con 
 
 ![image](https://user-images.githubusercontent.com/90828819/227519329-dfa6e554-8f13-40e9-8e84-30c1a23e8f19.png)
 
-Este diagrama es un estudio de una aplicación que se encarga de la transferencia de los archivos por red local y multicast. El emisor se encarga de enviar los archivos por red y el receptor de revibirlos.
+Este diagrama es un estudio de una aplicación que se encarga de la transferencia de los archivos por red local y multicast. El emisor se encarga de enviar los archivos por red y el receptor de revibirlos y donde quiere guardalos.
 
 ## DISEÑO DEL SOFTWARE
 
