@@ -43,4 +43,4 @@ Para la validación, el proceso 2.1 arrastra el archivo y es primitivo, en el 2.
 ## ESTIMACIÓN DE COSTES
 
 La estimación del coste a la hora de crear mi proyecto sería 35€ por hora pero depende según la aplicación que vaya a desarrollar y el tiempo que requiere la App: si es una App sencilla pues el coste sería una cierta cantidad con su duración, si la desarrollo en forma básica pues el coste sería diferente y si la hago compleja pues también diferente.
-La hora que necesitaría para crear la App sería de 366h de desarrollo. En principio no necesito contratar nada pero, si quiero subir mi App a Google Store me saldría por 22,26€ y si es en Apple Store pro 91,82€
+La hora que necesitaría para crear la App sería de 366h de desarrollo. En principio no necesito contratar nada pero, si quiero subir mi App a Google Store me saldría por 22,26€ y si es en Apple Store por 91,82€
